@@ -534,3 +534,59 @@ main .title .line{
     background-color: #f1e9de;
     transition: 0.3s;
 }
+
+.section-inst{
+    padding: 30px 0;
+}
+
+.section-inst .ads{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    color: #9f968e;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+}
+
+.section-inst .container{
+    width: 100%;
+}
+
+.section-inst .imgs{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-inst .imgs img{
+    margin: 10px;
+}
+
+.section-inst .ads p{
+    margin: 0 10px;
+}
+
+.section-inst .ads span{
+    color: #756b62;
+    text-decoration: underline;
+}
+
+.section-cta .story h2{
+    font-size: 55px;
+    font-style: italic;
+    color: #756b62;
+    margin-bottom: 30px;
+}
+
+.section-cta .story p{
+    font-size: 27px;
+    color: #988f87;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.section-cta .container{
+    display: flex;
+}
